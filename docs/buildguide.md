@@ -35,7 +35,7 @@ Gently place the plate and pcb assembly back in the case making sure to slot it 
 ![step5](/images/6.jpg "step5")
 
 ### Step 6
-Place the 2 top acrylic layers on top of the switch plate so that the screw holes align and screw in the 10 hex screws using the provided Allen key.  
+Place the 2 top acrylic layers on top of the switch plate so that the screw holes align and screw in the 10 hex screws using the provided Allen key. Be careful not to overtorque the screws.
 ![step6](/images/7.jpg "step6")
 
 ### Step 7
