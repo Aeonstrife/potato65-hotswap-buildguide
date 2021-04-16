@@ -26,12 +26,12 @@ Note: The Potato65 is compatible with PCB mount stabilizers only. You cannot use
 
 ### Step 4
 Place the plate on the PCB. Make sure that the stabilizers are fitted snugly in the holes on the switch plate. Install switches in the stabilizer locations.
-Optional: Install a keycap on each stabilized switch location and make sure they return properly and there is no rattle.
+Optional: Install a keycap on each stabilized switch location and make sure they return properly and there is no rattle.  
 ![step4](/images/5.jpg "step4")
 
 ### Step 5
 Install switches in all the other switch positions. Install the corner and center switches first for ease of installation. Make sure the switch housing is flush against the plate and that there are no bent pins.
-Connect the PCB to a computer and make sure that all the switches are working using a key tester.  
+Connect the PCB to a USB cable and make sure that all the switches are working using a key tester.  
 ![step5](/images/6.jpg "step5")
 
 ### Step 6
